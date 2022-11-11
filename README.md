@@ -1,2 +1,2 @@
-# pcoo
-This is the repo for the TC1033 class
+# PCOO
+I'm still looking for an ambitious project, by now I will upload only the advances.
